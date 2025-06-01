@@ -1,0 +1,16 @@
+p{
+    font-family: Roboto, arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.thumbnail{
+    width: 300px;
+    display: block;
+}
+.video-title{
+    width: 300px;
+}
+.video-preview{
+    width: 300px;
+    display: inline-block;
+}
